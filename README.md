@@ -1,1 +1,1 @@
-# Wordle-Bot-v1.0
+# Wordle-Bot
